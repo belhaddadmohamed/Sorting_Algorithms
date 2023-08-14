@@ -5,6 +5,8 @@ The most common sort algorithms in computer science:
 * 3- Bubble Sort
 * 4- Selection Sort
 * 5- Insertion Sort
+* 6- Heap Sort
+* 7- Shell Sort
 
 *By `Belhaddad mohamed islem`*  
 ![Complexity](https://github.com/belhaddadmohamed/Sorting_Algorithms/assets/115036033/8a307f56-453f-42ab-b649-97a6c34445af)
