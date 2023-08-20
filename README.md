@@ -12,7 +12,7 @@ The most common sort algorithms in computer science:
 * ![insertion](https://upload.wikimedia.org/wikipedia/commons/9/9c/Insertion-sort-example.gif)
 * 6- Heap Sort
 * 7- Shell Sort
-
-*By `Belhaddad mohamed islem`*  
+* Table of comparision between Complexities:
 ![Complexity](https://github.com/belhaddadmohamed/Sorting_Algorithms/assets/115036033/8a307f56-453f-42ab-b649-97a6c34445af)
 
+*By `Belhaddad mohamed islem`*  
